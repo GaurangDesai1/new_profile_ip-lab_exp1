@@ -6,6 +6,11 @@
     top: 0;
 }
 
+.head{
+    background-color: rgb(240, 240, 158);
+    box-shadow: 5px 5px 7px rgb(203, 216, 229) ;
+}
+
 .body{
     background-color: rgb(249, 225, 173);
     font-family:'Times New Roman', Times, serif;
@@ -36,3 +41,4 @@ background-position: center;
 background-repeat: no-repeat;
 opacity:calc(0.7);
 }
+
